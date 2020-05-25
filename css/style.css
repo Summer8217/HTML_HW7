@@ -39,7 +39,7 @@ p {
     }
 
 }
-@media (max-width: 426px) {
+@media (max-width: 560px) {
     .logo{
         width: 50%!important;
         margin-left: -30px;
